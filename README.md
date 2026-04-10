@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ryuichi Konishi 👋</h1>
+<h1 align="center">Hi there, I'm Ryuichi 👋</h1>
 
 <p align="center">
   Graduate student in Japan, exploring machine learning and research-oriented software projects.
@@ -23,7 +23,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,latex,git,github,linux,vscode,docker,cpp,pytorch,tensorflow&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,latex,git,github,linux,vscode,docker,pytorch&perline=5" />
 </p>
 
 ## Featured Projects
